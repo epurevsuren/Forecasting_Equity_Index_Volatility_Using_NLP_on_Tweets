@@ -58,5 +58,5 @@ The pipeline combines **rule-based NLP feature engineering**, **financial market
 ## 🚀 How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/epurevsuren/Forecasting_Equity_Index_Volatility_Using_NLP_on_Tweets.git
+   git clone https://github.com/epurevsuren/Forecasting-Equity-Index-Volatility-Using-NLP-on-Tweets.git
    cd Forecasting-Equity-Index-Volatility-Using-NLP-on-Tweets
